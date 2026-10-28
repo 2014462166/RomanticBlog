@@ -1,0 +1,7 @@
+{
+  "dates": [
+    { "id": "anniversary", "title": "在一起纪念日", "type": "纪念日", "date": "2026-10-18", "repeat": "yearly", "note": "" },
+    { "id": "her-birthday", "title": "她的生日", "type": "生日", "date": "2003-05-20", "repeat": "yearly", "note": "示例：请改成真实日期" },
+    { "id": "valentine", "title": "情人节", "type": "节日", "month": 2, "day": 14, "repeat": "yearly", "note": "" }
+  ]
+}

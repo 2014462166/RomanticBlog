@@ -1,0 +1,16 @@
+{
+  "music": [
+    {
+      "name": "示例曲目 1",
+      "artist": "替换成你们的歌",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "cover": "m_b86324cdcc/samples/sample-1.svg"
+    },
+    {
+      "name": "示例曲目 2",
+      "artist": "替换成你们的歌",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "cover": "m_b86324cdcc/samples/sample-2.svg"
+    }
+  ]
+}

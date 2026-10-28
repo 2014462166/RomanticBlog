@@ -1,0 +1,42 @@
+{
+  "entries": [
+    {
+      "id": "2026-10-25-001",
+      "date": "2026-10-25",
+      "title": "【示例】一起散步的傍晚",
+      "mood": "幸福",
+      "content": "这是一条示例记录：晚饭后一起散步，晚霞很好看。请替换成你们的真实日常。",
+      "location": "江边",
+      "tags": ["示例", "散步"],
+      "media": [
+        { "type": "image", "src": "m_b86324cdcc/samples/sample-1.svg", "thumb": "m_b86324cdcc/samples/sample-1.svg" },
+        { "type": "image", "src": "m_b86324cdcc/samples/sample-2.svg", "thumb": "m_b86324cdcc/samples/sample-2.svg" }
+      ]
+    },
+    {
+      "id": "2026-10-20-001",
+      "date": "2026-10-20",
+      "title": "【示例】第一次一起做饭",
+      "mood": "开心",
+      "content": "这是一条示例记录：一起做了晚饭，虽然卖相一般但很好吃。请替换成你们的真实日常。",
+      "location": "家",
+      "tags": ["示例", "日常"],
+      "media": [
+        { "type": "image", "src": "m_b86324cdcc/samples/sample-3.svg", "thumb": "m_b86324cdcc/samples/sample-3.svg" },
+        { "type": "image", "src": "m_b86324cdcc/samples/sample-4.svg", "thumb": "m_b86324cdcc/samples/sample-4.svg" }
+      ]
+    },
+    {
+      "id": "2026-10-18-001",
+      "date": "2026-10-18",
+      "title": "【示例】我们在一起啦",
+      "mood": "幸福",
+      "content": "这是一条示例记录：这一天我们在一起了。请把这里换成真实的第一天。",
+      "location": "",
+      "tags": ["示例", "纪念日"],
+      "media": [
+        { "type": "image", "src": "m_b86324cdcc/samples/sample-1.svg", "thumb": "m_b86324cdcc/samples/sample-1.svg" }
+      ]
+    }
+  ]
+}
